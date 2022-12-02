@@ -1,2 +1,6 @@
 in.txt
 pohja.cpp
+*.exe
+*.o
+*.hi
+.vscode
